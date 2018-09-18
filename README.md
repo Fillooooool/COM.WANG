@@ -12,4 +12,4 @@ Maven的SSM.CRUD
 * 项目依赖管理：Maven
 * 分页：pagehelper（Mybatis的工具）
 * 逆向工程：MyBatis Generator<br><br>
-![](https://github.com/a306946338/Learn-Maven-SSM.CRUD/blob/master/ssm-crud.jpg)  
+![](https://github.com/a306946338/COM.WANG/blob/master/ssm-crud.jpg)  
