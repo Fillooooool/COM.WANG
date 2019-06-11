@@ -1,0 +1,14 @@
+spider:
+  sleepStartTime: 200
+  sleepTime: 300
+  perListNum: 10
+  authors:
+  - '坡姐'
+  - '不吃草的兔子'
+  - 'xpy'
+  - '专筑装饰张雨欣'
+  urls:
+  - 'https://bbs.meishanren.com/forum-365-%d.html'
+  - 'https://bbs.meishanren.com/forum-108-%d.html'
+  - 'https://bbs.meishanren.com/forum-172-%d.html'
+  - 'https://bbs.meishanren.com/forum-1513-%d.html'
