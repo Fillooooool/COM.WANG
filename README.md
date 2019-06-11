@@ -13,3 +13,16 @@ Maven的SSM.CRUD
 * 分页：pagehelper（Mybatis的工具）
 * 逆向工程：MyBatis Generator<br><br>
 ![](https://github.com/a306946338/COM.WANG/blob/master/ssm-crud.jpg)  
+
+
+
+Maven的SpiderLearn
+=============
+跟着老大学习的爬虫程序
+---------
+使用爬虫爬取相应论坛的对应用户发帖情况，并实现记录。
+
+技术点：
+---------
+* 基础框架：jsoup+okhttp3
+* 项目依赖管理：Maven
