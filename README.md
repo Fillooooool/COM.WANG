@@ -26,3 +26,4 @@ Maven的SpiderLearn
 ---------
 * 基础框架：jsoup+okhttp3
 * 项目依赖管理：Maven
+![](https://github.com/a306946338/COM.WANG/blob/master/SpiderLearn.jpg)
