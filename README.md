@@ -34,4 +34,4 @@ Maven的vpn地址更新工具
 ---------
 即访问本部开发的web连接，获取到最新的IP地址后，修改本地的host文件，添加Ip地址，固定服务器名称或地址，每一个小时获取一次，确保是否变更。
 * 项目依赖管理：Maven
-![](https://github.com/a306946338/COM.WANG/blob/master/vpn.png)
+
