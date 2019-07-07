@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev
+server:
+  port: 8211
+  contextPath: /mall/s
